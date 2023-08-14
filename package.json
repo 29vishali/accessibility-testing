@@ -1,0 +1,24 @@
+{
+  "name": "accessbility-testing",
+  "version": "1.0.0",
+  "description": "accessibility testing ",
+  "main": "cypress.config.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/29vishali/accessibility-testing.git"
+  },
+  "author": "visalakshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/29vishali/accessibility-testing/issues"
+  },
+  "homepage": "https://github.com/29vishali/accessibility-testing#readme",
+  "devDependencies": {
+    "@govtechsg/purple-hats": "^0.9.5-npm",
+    "cypress": "^12.17.3"
+  }
+}
